@@ -17,7 +17,7 @@ The primary objective of this project is to predict a person's health insurance 
 https://github.com/user-attachments/assets/8da84656-72f9-427a-a4b8-63f83ce18913
 
 ## Use my APP
-https://lnkd.in/gmU25Qi2
+[https://lnkd.in/gmU25Qi2](https://project-healthcare-premium-prediction.streamlit.app/)
 
 ## Skills gained
 - **Machine learning**
