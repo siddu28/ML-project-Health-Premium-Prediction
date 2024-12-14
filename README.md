@@ -1,4 +1,4 @@
-# Expense Management System
+# Health-Premium-Prediction
 
 The primary objective of this project is to predict a person's health insurance coverage based on various factors such as age, number of dependents, income, genetic risk, insurance plan, employment status, gender, marital status, BMI category, smoking habits, region, and medical history.
 
