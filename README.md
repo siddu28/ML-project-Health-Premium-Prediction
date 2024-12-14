@@ -16,6 +16,9 @@ The primary objective of this project is to predict a person's health insurance 
 ## A Demo Video
 https://github.com/user-attachments/assets/8da84656-72f9-427a-a4b8-63f83ce18913
 
+## Use my APP
+https://lnkd.in/gmU25Qi2
+
 ## Skills gained
 - **Machine learning**
 - **Data cleaning**
